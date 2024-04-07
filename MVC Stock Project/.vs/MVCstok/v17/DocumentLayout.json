@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|c:\\users\\\u0130brah\u0130m\\desktop\\c# projeler\\mvcstok\\mvcstok\\views\\vitrin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|solutionrelative:mvcstok\\views\\vitrin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\mvcstok\\views\\urun\\urunekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|solutionrelative:mvcstok\\views\\urun\\urunekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\mvcstok\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|solutionrelative:mvcstok\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\mvcstok\\controllers\\guvenlikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|solutionrelative:mvcstok\\controllers\\guvenlikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\mvcstok\\views\\urun\\urungetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|solutionrelative:mvcstok\\views\\urun\\urungetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\mvcstok\\views\\kategori\\kategorigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|solutionrelative:mvcstok\\views\\kategori\\kategorigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\mvcstok\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|solutionrelative:mvcstok\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\mvcstok\\controllers\\satiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|solutionrelative:mvcstok\\controllers\\satiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\mvcstok\\controllers\\vitrincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|solutionrelative:mvcstok\\controllers\\vitrincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\mvcstok\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|solutionrelative:mvcstok\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\mvcstok\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3256818B-C27D-41D5-918F-EA697B33D3D1}|MVCstok\\MVCstok.csproj|solutionrelative:mvcstok\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GuvenlikController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Controllers\\GuvenlikController.cs",
+              "RelativeDocumentMoniker": "MVCstok\\Controllers\\GuvenlikController.cs",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Controllers\\GuvenlikController.cs",
+              "RelativeToolTip": "MVCstok\\Controllers\\GuvenlikController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowBQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T15:49:32.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UrunController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Controllers\\UrunController.cs",
+              "RelativeDocumentMoniker": "MVCstok\\Controllers\\UrunController.cs",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Controllers\\UrunController.cs",
+              "RelativeToolTip": "MVCstok\\Controllers\\UrunController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T07:19:13.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UrunEkle.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Views\\Urun\\UrunEkle.cshtml",
+              "RelativeDocumentMoniker": "MVCstok\\Views\\Urun\\UrunEkle.cshtml",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Views\\Urun\\UrunEkle.cshtml",
+              "RelativeToolTip": "MVCstok\\Views\\Urun\\UrunEkle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-01-17T16:10:26.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCstok\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCstok\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T10:14:44.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Views\\Vitrin\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCstok\\Views\\Vitrin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Views\\Vitrin\\Index.cshtml",
+              "RelativeToolTip": "MVCstok\\Views\\Vitrin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-05T07:18:23.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KategoriGetir.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Views\\Kategori\\KategoriGetir.cshtml",
+              "RelativeDocumentMoniker": "MVCstok\\Views\\Kategori\\KategoriGetir.cshtml",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Views\\Kategori\\KategoriGetir.cshtml",
+              "RelativeToolTip": "MVCstok\\Views\\Kategori\\KategoriGetir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-01-17T16:09:48.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UrunGetir.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Views\\Urun\\UrunGetir.cshtml",
+              "RelativeDocumentMoniker": "MVCstok\\Views\\Urun\\UrunGetir.cshtml",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Views\\Urun\\UrunGetir.cshtml",
+              "RelativeToolTip": "MVCstok\\Views\\Urun\\UrunGetir.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-01-17T16:10:31.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SatisController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Controllers\\SatisController.cs",
+              "RelativeDocumentMoniker": "MVCstok\\Controllers\\SatisController.cs",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Controllers\\SatisController.cs",
+              "RelativeToolTip": "MVCstok\\Controllers\\SatisController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T07:19:25.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VitrinController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Controllers\\VitrinController.cs",
+              "RelativeDocumentMoniker": "MVCstok\\Controllers\\VitrinController.cs",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Controllers\\VitrinController.cs",
+              "RelativeToolTip": "MVCstok\\Controllers\\VitrinController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-05T07:19:12.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Web.config",
+              "RelativeDocumentMoniker": "MVCstok\\Web.config",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Web.config",
+              "RelativeToolTip": "MVCstok\\Web.config",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-01-05T07:18:59.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Views\\Web.config",
+              "RelativeDocumentMoniker": "MVCstok\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\\u0130BRAH\u0130M\\Desktop\\c# projeler\\MVCstok\\MVCstok\\Views\\Web.config",
+              "RelativeToolTip": "MVCstok\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-01-05T07:18:58.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
